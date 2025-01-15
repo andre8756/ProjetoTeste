@@ -1,2 +1,2 @@
 # ProjetoTeste
-Repositório de teste
+Apenas um repositório de teste
